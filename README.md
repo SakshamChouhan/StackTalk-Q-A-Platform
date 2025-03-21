@@ -35,8 +35,8 @@ StackTalk is a lightweight Q&A platform similar to Stack Overflow, allowing user
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/stacktalk.git
-cd stacktalk
+git clone https://github.com/SakshamChouhan/StackTalk-Q-A-Platform.git
+cd StackTalk-Q-A-Platform
 ```
 
 2. Install dependencies
