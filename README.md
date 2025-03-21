@@ -2,7 +2,7 @@
 
 StackTalk is a lightweight Q&A platform similar to Stack Overflow, allowing users to ask questions, answer others' questions, and track their contributions. Built with modern web technologies, it offers a seamless experience for knowledge sharing and community building.
 
-![StackTalk Screenshot](screenshot.png)
+![StackTalk Screenshot](./images/picture 1.png)
 
 ## Features
 
